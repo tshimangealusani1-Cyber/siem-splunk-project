@@ -16,6 +16,11 @@ The project simulates a real SOC (Security Operations Center) environment where 
 * Build dashboards for monitoring
 * Simulate SOC-level investigation
 
+
+## Screenshots
+
+https://www.notion.so/Splunk-Project-34b2f9b6c93180ea9724cf141990de39?source=copy_link
+
 ---
 
 ## 🛠️ Technologies Used
